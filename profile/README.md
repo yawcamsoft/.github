@@ -2,7 +2,7 @@
 <p>Yawcam (Yet Another WebCAM software) is created to let Windows users use their webcam (or IP camera) for streaming video, capturing snapshots, motion detection, and optionally sharing streams over the internet via built-in web server or FTP. It aims to be simple and accessible while providing full-featured webcam utilities.</p>
 </div>
 
-<div><img src="https://raw.githubusercontent.com/yawcamsoft/.github/refs/heads/main/2.png" alt="Yawcam"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/yawcamsoft/.github/refs/heads/main/2.png" alt="Yawcam"></div>
 
 <h2>Core Features</h2>
 <ul>
